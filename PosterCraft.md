@@ -122,7 +122,7 @@ extra_js:
         </div>
 
             <div class="video-center">
-            <iframe width="1000" height="600" src="https://www.youtube.com/embed/aJXpWluI1-w?si=350fBzfNH79XocD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe width="1000" height="600" src="https://www.youtube.com/embed/SfrkZks_XE8?si=lWiV3Cv8Pkf8l6PN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
 
     </div>
